@@ -7,9 +7,6 @@ public class TesteRadioEncapsulada {
 		RadioEncapsulada radio1= new RadioEncapsulada();
 		radio1.setEstacao(81.1f);
 		radio1.setVolume(99);
-		
-	 
-		
 		radio1.mostrar();
 		
 		
